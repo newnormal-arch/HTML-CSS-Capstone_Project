@@ -5,7 +5,7 @@
     background-color: #454545;
 }
 
-section{
+.hero-section{
     height: 100vh;
     width: 100vw;
     display: flex;
@@ -20,6 +20,12 @@ h3, h5, p{
 }
 
 .story-section{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     margin: 0 40px;
 }
 
@@ -37,6 +43,15 @@ h4{
     margin-top: 30px;
     text-transform: uppercase;
 }
+
+.menu-section{
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 
 
 
