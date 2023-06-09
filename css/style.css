@@ -20,7 +20,7 @@ nav {
     right: 0;
     top: 0;
     padding: 0 5%;
-    background-color: azure;
+    background-color: white;
 }
 
 .nav-logo {
@@ -157,5 +157,5 @@ footer{
     display: flex;
     bottom: 0;
     justify-content: space-between;
-    background-color: azure;
+    background-color: white;
 }
